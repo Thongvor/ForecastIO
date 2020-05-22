@@ -1,0 +1,6 @@
+framework module Pods_ForecastIOTests {
+  umbrella header "Pods-ForecastIOTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
